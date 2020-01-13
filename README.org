@@ -1,16 +1,29 @@
 * g_lisp
 - 增加一个新的小project，以后追踪我自己的lisp学习历程。
-** 环境搭建
+* happy hacking for STM32F407
+* 维护者联系方式
+- 微信： grey0612  添加时务必备注F407并说明自己的沟通目的
+- Email： greyzhang@126.com
+
+* 环境搭建
 *** lisp in a box
 - 这个是common lisp的一个默认的开发环境，我看了下，到我查看的时候版本还没有出1.0，不知道是否意味着功能不健全或者不稳定？
 - 这个环境是基于emacs的，重新从《实用common lisp编程》开始学习，还是回到了这个IDE。
 *** clisp
 - 这是我今天刚刚找到的一个新的开发环境，有着跟Perl或者Python解析器类似的使用方式。同时，也可以使用类似Python idle的REPL模式。
-** TODO 计划以及探索
+* TODO 计划以及探索
 - 开发环境搭建(DONE)
 - 软件运行方法(DONE)
-** 小练习
+- 文本文件处理(DONE)
+- 函数设计（DONE）
+* 小练习
 - common lisp开发环境与语言初步
 N191， https://blog.csdn.net/grey_csdn/article/details/103691274
 - 如何运行lisp代码
 N192， https://blog.csdn.net/grey_csdn/article/details/103691528
+- 文件句柄的使用
+N193， https://blog.csdn.net/grey_csdn/article/details/103924724
+- common lisp的几种函数定义
+N194， https://blog.csdn.net/grey_csdn/article/details/103931418
+
+
