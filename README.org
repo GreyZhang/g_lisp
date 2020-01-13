@@ -1,6 +1,6 @@
 * g_lisp
 - 增加一个新的小project，以后追踪我自己的lisp学习历程。
-* happy hacking for STM32F407
+* happy hacking for lisp
 * 维护者联系方式
 - 微信： grey0612  添加时务必备注F407并说明自己的沟通目的
 - Email： greyzhang@126.com
@@ -15,6 +15,7 @@
 - 开发环境搭建(DONE)
 - 软件运行方法(DONE)
 - 文本文件处理(DONE)
+- 变量定义以及声明处理
 - 函数设计（DONE）
 * 小练习
 - common lisp开发环境与语言初步
@@ -25,5 +26,6 @@ N192， https://blog.csdn.net/grey_csdn/article/details/103691528
 N193， https://blog.csdn.net/grey_csdn/article/details/103924724
 - common lisp的几种函数定义
 N194， https://blog.csdn.net/grey_csdn/article/details/103931418
-
+- 变量定义之let以及let*
+N195， https://blog.csdn.net/grey_csdn/article/details/103965807
 
