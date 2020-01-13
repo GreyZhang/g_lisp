@@ -6,12 +6,9 @@
 - 这个环境是基于emacs的，但是整体的使用体验比我自己的emacs体验差不少。只是作为一个简单的尝试做了使用，后期我应该会放弃这个工具了。
 *** clisp
 - 这是我今天刚刚找到的一个新的开发环境，有着跟Perl或者Python解析器类似的使用方式。同时，也可以使用类似Python idle的REPL模式。
-** 计划以及探索
-*** DONE 开发环境搭建
-    CLOSED: [2020-01-13 周一 11:28]
-*** DONE 软件运行
-    CLOSED: [2020-01-13 周一 11:28]
-** 编码能力
+** TODO 计划以及探索
+- 开发环境搭建(DONE)
+- 软件运行方法(DONE)
 ** 小练习
 - common lisp开发环境与语言初步
 N191， https://blog.csdn.net/grey_csdn/article/details/103691274
