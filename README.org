@@ -2,7 +2,7 @@
 - 增加一个新的小project，以后追踪我自己的lisp学习历程。
 * happy hacking for lisp
 * 维护者联系方式
-- 微信： grey0612  添加时务必备注F407并说明自己的沟通目的
+- 微信： grey0612  添加时务必备注lisp并说明自己的沟通目的
 - Email： greyzhang@126.com
 
 * 环境搭建
@@ -12,11 +12,17 @@
 *** clisp
 - 这是我今天刚刚找到的一个新的开发环境，有着跟Perl或者Python解析器类似的使用方式。同时，也可以使用类似Python idle的REPL模式。
 * TODO 计划以及探索
-- 开发环境搭建(DONE)
-- 软件运行方法(DONE)
-- 文本文件处理(DONE)
-- 变量定义以及声明处理
-- 函数设计（DONE）
+** DONE 开发环境搭建
+   CLOSED: [2020-01-14 周二 22:44]
+** DONE 软件运行方法
+   CLOSED: [2020-01-14 周二 22:44]
+** DONE 文本文件处理
+   CLOSED: [2020-01-14 周二 22:44]
+** TODO 变量定义以及声明处理
+- let以及let* --> OK
+- 动态变量定义 --> OK
+** DONE 函数设计
+   CLOSED: [2020-01-14 周二 22:44]
 * 小练习
 - common lisp开发环境与语言初步
 N191， https://blog.csdn.net/grey_csdn/article/details/103691274
@@ -28,4 +34,6 @@ N193， https://blog.csdn.net/grey_csdn/article/details/103924724
 N194， https://blog.csdn.net/grey_csdn/article/details/103931418
 - 变量定义之let以及let*
 N195， https://blog.csdn.net/grey_csdn/article/details/103965807
+- 动态变量定义
+N196， https://blog.csdn.net/grey_csdn/article/details/103981189
 
