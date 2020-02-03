@@ -43,4 +43,6 @@ N197， https://blog.csdn.net/grey_csdn/article/details/104012196
 N198， https://blog.csdn.net/grey_csdn/article/details/104158807
 - emacs lisp: 常量定义探索
 N199， https://blog.csdn.net/grey_csdn/article/details/104159540
+- emacs版本高低判断
+N200， https://blog.csdn.net/grey_csdn/article/details/104162177
 
