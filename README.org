@@ -23,6 +23,7 @@
 - 动态变量定义 --> OK
 ** DONE 函数设计
    CLOSED: [2020-01-14 周二 22:44]
+** TODO 闭包
 * 小练习
 - common lisp开发环境与语言初步
 N191， https://blog.csdn.net/grey_csdn/article/details/103691274
@@ -38,5 +39,6 @@ N195， https://blog.csdn.net/grey_csdn/article/details/103965807
 N196， https://blog.csdn.net/grey_csdn/article/details/103981189
 - common lisp 内置的自增以及自减函数
 N197， https://blog.csdn.net/grey_csdn/article/details/104012196
-
+- emacs lisp: setq使用
+N198， https://blog.csdn.net/grey_csdn/article/details/104158807
 
