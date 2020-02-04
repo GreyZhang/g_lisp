@@ -12,6 +12,11 @@
 *** clisp
 - 这是我今天刚刚找到的一个新的开发环境，有着跟Perl或者Python解析器类似的使用方式。同时，也可以使用类似Python idle的REPL模式。
 * TODO 计划以及探索
+** 概述
+- 【尝试路线1】最初的学习，直接按照《实用common lisp编程》从头开始学习，感觉学习不顺利，从环境到教程都不算是适应，放弃。
+- 【尝试路线2】教程依然是《实用common lisp编程》，放弃了lisp in a box的开发环境，采用clisp。教程太难，放弃。
+- 【尝试路线3】算是精神胜利式的冲锋，再次回到路线1，最终感觉教程不适合我这样的初学者，放弃。
+- 【尝试路线3】直接在实践中学习，上来就读代码，不懂的时候补充学习基础。学习对象从common lisp转换到了emacs lisp，学习的内容为spacemacs的配置。
 ** DONE 开发环境搭建
    CLOSED: [2020-01-14 周二 22:44]
 ** DONE 软件运行方法
@@ -49,4 +54,6 @@ N200， https://blog.csdn.net/grey_csdn/article/details/104162177
 N201， https://blog.csdn.net/grey_csdn/article/details/104167066
 - emacs lisp: error提示
 N202， https://blog.csdn.net/grey_csdn/article/details/104170167
+- emacs lisp: 条件分支
+N203， https://blog.csdn.net/grey_csdn/article/details/104171834
 
