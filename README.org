@@ -47,4 +47,6 @@ N199， https://blog.csdn.net/grey_csdn/article/details/104159540
 N200， https://blog.csdn.net/grey_csdn/article/details/104162177
 - emacs lisp: 字符串拼接、字符串连接
 N201， https://blog.csdn.net/grey_csdn/article/details/104167066
+- emacs lisp: error提示
+N202， https://blog.csdn.net/grey_csdn/article/details/104170167
 
