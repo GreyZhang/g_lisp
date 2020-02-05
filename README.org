@@ -60,4 +60,6 @@ N203， https://blog.csdn.net/grey_csdn/article/details/104171834
 N204， https://blog.csdn.net/grey_csdn/article/details/104174920
 - emacs lisp: emacs加载文件的信息依据
 N205， https://blog.csdn.net/grey_csdn/article/details/104175380
+- emacs lisp: 根据文件全名获取文件所在目录信息
+N206， https://blog.csdn.net/grey_csdn/article/details/104179658
 
