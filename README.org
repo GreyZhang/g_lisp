@@ -64,4 +64,6 @@ N205， https://blog.csdn.net/grey_csdn/article/details/104175380
 N206， https://blog.csdn.net/grey_csdn/article/details/104179658
 - emacs lisp: emacs lisp文件加载
 N207， https://blog.csdn.net/grey_csdn/article/details/104186184
+- emacs lisp: 变量赋值之setq
+N208， https://blog.csdn.net/grey_csdn/article/details/104221124
 
