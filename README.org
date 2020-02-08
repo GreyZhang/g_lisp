@@ -70,4 +70,6 @@ N208， https://blog.csdn.net/grey_csdn/article/details/104221124
 N209， https://blog.csdn.net/grey_csdn/article/details/104222122
 - emacs lisp: 通过load加载文件以及函数搜索目录
 N210， https://blog.csdn.net/grey_csdn/article/details/104222631
+- emacs lisp: spacemacs增加load加载目录封装
+N211， https://blog.csdn.net/grey_csdn/article/details/104223175
 
