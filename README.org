@@ -68,4 +68,6 @@ N207， https://blog.csdn.net/grey_csdn/article/details/104186184
 N208， https://blog.csdn.net/grey_csdn/article/details/104221124
 - emacs lisp: 向列表中增加不存在的元素
 N209， https://blog.csdn.net/grey_csdn/article/details/104222122
+- emacs lisp: 通过load加载文件以及函数搜索目录
+N210， https://blog.csdn.net/grey_csdn/article/details/104222631
 
