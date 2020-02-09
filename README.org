@@ -78,4 +78,5 @@ N212， https://blog.csdn.net/grey_csdn/article/details/104223675
 N213， https://blog.csdn.net/grey_csdn/article/details/104232723
 - emacs lisp: spacemacs的用户目录
 N214， https://blog.csdn.net/grey_csdn/article/details/104232950
-
+- emacs lisp: 展开文件名为绝对目录格式
+N215， https://blog.csdn.net/grey_csdn/article/details/104233439
