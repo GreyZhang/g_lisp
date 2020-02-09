@@ -82,4 +82,5 @@ N214， https://blog.csdn.net/grey_csdn/article/details/104232950
 N215， https://blog.csdn.net/grey_csdn/article/details/104233439
 - emacs lisp: spacemacs的目录定义
 N216， https://blog.csdn.net/grey_csdn/article/details/104234583
-
+- emacs lisp: 创建目录
+N217， https://blog.csdn.net/grey_csdn/article/details/104234894
