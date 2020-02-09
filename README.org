@@ -80,3 +80,6 @@ N213， https://blog.csdn.net/grey_csdn/article/details/104232723
 N214， https://blog.csdn.net/grey_csdn/article/details/104232950
 - emacs lisp: 展开文件名为绝对目录格式
 N215， https://blog.csdn.net/grey_csdn/article/details/104233439
+- emacs lisp: spacemacs的目录定义
+N216， https://blog.csdn.net/grey_csdn/article/details/104234583
+
