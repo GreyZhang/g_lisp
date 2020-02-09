@@ -76,4 +76,6 @@ N211， https://blog.csdn.net/grey_csdn/article/details/104223175
 N212， https://blog.csdn.net/grey_csdn/article/details/104223675
 - emacs lisp: emacs lisp判断文件是否存在
 N213， https://blog.csdn.net/grey_csdn/article/details/104232723
+- emacs lisp: spacemacs的用户目录
+N214， https://blog.csdn.net/grey_csdn/article/details/104232950
 
