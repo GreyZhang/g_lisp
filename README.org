@@ -96,3 +96,6 @@ N223， https://blog.csdn.net/grey_csdn/article/details/104268516
 N224， https://blog.csdn.net/grey_csdn/article/details/104268777
 - emacs lisp: provide 以及 require函数逇使用
 N225， https://blog.csdn.net/grey_csdn/article/details/104270387
+- emacs lisp: 控制 *Message* buffer的log条目
+N226， https://blog.csdn.net/grey_csdn/article/details/104270841
+
