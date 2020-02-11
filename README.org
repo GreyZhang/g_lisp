@@ -93,5 +93,6 @@ N222， https://blog.csdn.net/grey_csdn/article/details/104268483
 - emacs lisp: 映射类函数
 N223， https://blog.csdn.net/grey_csdn/article/details/104268516
 - emacs lisp: 用户主题搜索目录
-N234， https://blog.csdn.net/grey_csdn/article/details/104268777
-
+N224， https://blog.csdn.net/grey_csdn/article/details/104268777
+- emacs lisp: provide 以及 require函数逇使用
+N225， https://blog.csdn.net/grey_csdn/article/details/104270387
