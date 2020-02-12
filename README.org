@@ -102,4 +102,6 @@ N224， https://blog.csdn.net/grey_csdn/article/details/104268777
 N225， https://blog.csdn.net/grey_csdn/article/details/104270387
 - emacs lisp: 控制 *Message* buffer的log条目
 N226， https://blog.csdn.net/grey_csdn/article/details/104270841
+- emacs lisp: 获取当前的时间
+N227， https://blog.csdn.net/grey_csdn/article/details/104286324
 
