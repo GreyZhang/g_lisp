@@ -106,4 +106,5 @@ N226， https://blog.csdn.net/grey_csdn/article/details/104270841
 N227， https://blog.csdn.net/grey_csdn/article/details/104286324
 - spacemacs题外话: 增加几款备选主题
 N229， https://blog.csdn.net/grey_csdn/article/details/104302524
-
+- emacs lisp: emacs扩展功能subr-x的引用
+N230， https://blog.csdn.net/grey_csdn/article/details/104303251
