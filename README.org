@@ -108,3 +108,6 @@ N227， https://blog.csdn.net/grey_csdn/article/details/104286324
 N229， https://blog.csdn.net/grey_csdn/article/details/104302524
 - emacs lisp: emacs扩展功能subr-x的引用
 N230， https://blog.csdn.net/grey_csdn/article/details/104303251
+- emacs lisp: cl-lib初探
+N231， https://blog.csdn.net/grey_csdn/article/details/104303572
+
