@@ -116,4 +116,6 @@ N234， https://blog.csdn.net/grey_csdn/article/details/104319419
 N235， https://blog.csdn.net/grey_csdn/article/details/104319557
 - emacs lisp: 小数点在列表中的作用
 N236， https://blog.csdn.net/grey_csdn/article/details/104319595
+- emacs lisp: eq函数的使用
+N237， https://blog.csdn.net/grey_csdn/article/details/104319634
 
