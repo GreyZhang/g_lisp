@@ -124,3 +124,5 @@ N238， https://blog.csdn.net/grey_csdn/article/details/104319681
 N239， https://blog.csdn.net/grey_csdn/article/details/104319766
 - emacs lisp: emacs的REPL交互模式
 N241， https://blog.csdn.net/grey_csdn/article/details/104330596
+- emacs lisp: 转义字符
+N242， https://blog.csdn.net/grey_csdn/article/details/104335123
