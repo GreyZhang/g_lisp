@@ -122,3 +122,5 @@ N237， https://blog.csdn.net/grey_csdn/article/details/104319634
 N238， https://blog.csdn.net/grey_csdn/article/details/104319681
 - emacs lisp: macroexp--cons函数的实现分析
 N239， https://blog.csdn.net/grey_csdn/article/details/104319766
+- emacs lisp: emacs的REPL交互模式
+N241， https://blog.csdn.net/grey_csdn/article/details/104330596
