@@ -128,3 +128,6 @@ N241， https://blog.csdn.net/grey_csdn/article/details/104330596
 N242， https://blog.csdn.net/grey_csdn/article/details/104335123
 - emacs lisp: 斜线对于标识符的影响
 N243， https://blog.csdn.net/grey_csdn/article/details/104335959
+- emacs lisp: print函数
+N244， https://blog.csdn.net/grey_csdn/article/details/104336150
+
