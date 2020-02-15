@@ -134,4 +134,6 @@ N244， https://blog.csdn.net/grey_csdn/article/details/104336150
 N245， https://blog.csdn.net/grey_csdn/article/details/104336389
 - emacs lisp: 序列长度获取之length函数
 N246， https://blog.csdn.net/grey_csdn/article/details/104336658
+- emacs lisp: 函数设计小结
+N247， https://blog.csdn.net/grey_csdn/article/details/104336913
 
