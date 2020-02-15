@@ -126,3 +126,5 @@ N239， https://blog.csdn.net/grey_csdn/article/details/104319766
 N241， https://blog.csdn.net/grey_csdn/article/details/104330596
 - emacs lisp: 转义字符
 N242， https://blog.csdn.net/grey_csdn/article/details/104335123
+- emacs lisp: 斜线对于标识符的影响
+N243， https://blog.csdn.net/grey_csdn/article/details/104335959
