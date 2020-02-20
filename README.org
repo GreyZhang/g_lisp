@@ -138,3 +138,5 @@ N246， https://blog.csdn.net/grey_csdn/article/details/104336658
 N247， https://blog.csdn.net/grey_csdn/article/details/104336913
 - common lisp: REPL中几个常用的符号以及函数
 N257， https://blog.csdn.net/grey_csdn/article/details/104417719
+- common lisp: lisp_s evaluation model
+N258， https://blog.csdn.net/grey_csdn/article/details/104417782
