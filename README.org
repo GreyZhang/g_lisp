@@ -136,4 +136,5 @@ N245， https://blog.csdn.net/grey_csdn/article/details/104336389
 N246， https://blog.csdn.net/grey_csdn/article/details/104336658
 - emacs lisp: 函数设计小结
 N247， https://blog.csdn.net/grey_csdn/article/details/104336913
-
+- common lisp: REPL中几个常用的符号以及函数
+N257， https://blog.csdn.net/grey_csdn/article/details/104417719
