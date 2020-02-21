@@ -140,3 +140,5 @@ N247， https://blog.csdn.net/grey_csdn/article/details/104336913
 N257， https://blog.csdn.net/grey_csdn/article/details/104417719
 - common lisp: lisp_s evaluation model
 N258， https://blog.csdn.net/grey_csdn/article/details/104417782
+- common lisp: 既然有了if为什么还要使用when？
+N262， https://blog.csdn.net/grey_csdn/article/details/104434492
