@@ -142,3 +142,5 @@ N257， https://blog.csdn.net/grey_csdn/article/details/104417719
 N258， https://blog.csdn.net/grey_csdn/article/details/104417782
 - common lisp: 既然有了if为什么还要使用when？
 N262， https://blog.csdn.net/grey_csdn/article/details/104434492
+- common lisp: flet 以及 labels
+N265， https://blog.csdn.net/grey_csdn/article/details/104442126
