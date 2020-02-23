@@ -11,6 +11,7 @@
 - 【尝试路线2】教程依然是《实用common lisp编程》，放弃了lisp in a box的开发环境，采用clisp。教程太难，放弃。
 - 【尝试路线3】算是精神胜利式的冲锋，再次回到路线1，最终感觉教程不适合我这样的初学者，放弃。
 - 【尝试路线4】直接在实践中学习，上来就读代码，不懂的时候补充学习基础。学习对象从common lisp转换到了emacs lisp，学习的内容为spacemacs的配置。
+- 【尝试路线5】回到common lisp，使用lispbox环境，继续熟悉一部分common lisp的基础知识。
 ** 环境搭建
 *** lisp in a box
 - 这个是common lisp的一个默认的开发环境，我看了下，到我查看的时候版本还没有出1.0，不知道是否意味着功能不健全或者不稳定？
@@ -144,3 +145,6 @@ N258， https://blog.csdn.net/grey_csdn/article/details/104417782
 N262， https://blog.csdn.net/grey_csdn/article/details/104434492
 - common lisp: flet 以及 labels
 N265， https://blog.csdn.net/grey_csdn/article/details/104442126
+- common lisp: 可选参数指定状态判断
+N270， https://blog.csdn.net/grey_csdn/article/details/104457392
+
