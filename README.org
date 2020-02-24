@@ -147,4 +147,6 @@ N262， https://blog.csdn.net/grey_csdn/article/details/104434492
 N265， https://blog.csdn.net/grey_csdn/article/details/104442126
 - common lisp: 可选参数指定状态判断
 N270， https://blog.csdn.net/grey_csdn/article/details/104457392
+- common lisp: list的拆分
+N273， https://blog.csdn.net/grey_csdn/article/details/104487185
 
