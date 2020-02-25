@@ -151,3 +151,6 @@ N270， https://blog.csdn.net/grey_csdn/article/details/104457392
 N273， https://blog.csdn.net/grey_csdn/article/details/104487185
 - emacs only
 N274， https://blog.csdn.net/grey_csdn/article/details/104504609
+- common lisp: 数值计算与表达
+N278， https://blog.csdn.net/grey_csdn/article/details/104508205
+
