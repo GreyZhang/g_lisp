@@ -157,3 +157,5 @@ N278， https://blog.csdn.net/grey_csdn/article/details/104508205
 N279， https://blog.csdn.net/grey_csdn/article/details/104526271
 - emacs: spacemacs中的几个基于evil的常用工程管理快捷键
 N280， https://blog.csdn.net/grey_csdn/article/details/104544215
+- common lisp: 多返回值函数
+N281， https://blog.csdn.net/grey_csdn/article/details/104545665
