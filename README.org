@@ -36,126 +36,128 @@
 ** TODO 闭包
 * 小练习
 - common lisp开发环境与语言初步
-N191， https://blog.csdn.net/grey_csdn/article/details/103691274
+N191, https://blog.csdn.net/grey_csdn/article/details/103691274
 - 如何运行lisp代码
-N192， https://blog.csdn.net/grey_csdn/article/details/103691528
+N192, https://blog.csdn.net/grey_csdn/article/details/103691528
 - 文件句柄的使用
-N193， https://blog.csdn.net/grey_csdn/article/details/103924724
+N193, https://blog.csdn.net/grey_csdn/article/details/103924724
 - common lisp的几种函数定义
-N194， https://blog.csdn.net/grey_csdn/article/details/103931418
+N194, https://blog.csdn.net/grey_csdn/article/details/103931418
 - 变量定义之let以及let*
-N195， https://blog.csdn.net/grey_csdn/article/details/103965807
+N195, https://blog.csdn.net/grey_csdn/article/details/103965807
 - 动态变量定义
-N196， https://blog.csdn.net/grey_csdn/article/details/103981189
+N196, https://blog.csdn.net/grey_csdn/article/details/103981189
 - common lisp 内置的自增以及自减函数
-N197， https://blog.csdn.net/grey_csdn/article/details/104012196
+N197, https://blog.csdn.net/grey_csdn/article/details/104012196
 - emacs lisp: setq使用
-N198， https://blog.csdn.net/grey_csdn/article/details/104158807
+N198, https://blog.csdn.net/grey_csdn/article/details/104158807
 - emacs lisp: 常量定义探索
-N199， https://blog.csdn.net/grey_csdn/article/details/104159540
+N199, https://blog.csdn.net/grey_csdn/article/details/104159540
 - emacs版本高低判断
-N200， https://blog.csdn.net/grey_csdn/article/details/104162177
+N200, https://blog.csdn.net/grey_csdn/article/details/104162177
 - emacs lisp: 字符串拼接、字符串连接
-N201， https://blog.csdn.net/grey_csdn/article/details/104167066
+N201, https://blog.csdn.net/grey_csdn/article/details/104167066
 - emacs lisp: error提示
-N202， https://blog.csdn.net/grey_csdn/article/details/104170167
+N202, https://blog.csdn.net/grey_csdn/article/details/104170167
 - emacs lisp: 条件分支
-N203， https://blog.csdn.net/grey_csdn/article/details/104171834
+N203, https://blog.csdn.net/grey_csdn/article/details/104171834
 - emacs lisp: 与或非
-N204， https://blog.csdn.net/grey_csdn/article/details/104174920
+N204, https://blog.csdn.net/grey_csdn/article/details/104174920
 - emacs lisp: emacs加载文件的信息依据
-N205， https://blog.csdn.net/grey_csdn/article/details/104175380
+N205, https://blog.csdn.net/grey_csdn/article/details/104175380
 - emacs lisp: 根据文件全名获取文件所在目录信息
-N206， https://blog.csdn.net/grey_csdn/article/details/104179658
+N206, https://blog.csdn.net/grey_csdn/article/details/104179658
 - emacs lisp: emacs lisp文件加载
-N207， https://blog.csdn.net/grey_csdn/article/details/104186184
+N207, https://blog.csdn.net/grey_csdn/article/details/104186184
 - emacs lisp: 变量赋值之setq
-N208， https://blog.csdn.net/grey_csdn/article/details/104221124
+N208, https://blog.csdn.net/grey_csdn/article/details/104221124
 - emacs lisp: 向列表中增加不存在的元素
-N209， https://blog.csdn.net/grey_csdn/article/details/104222122
+N209, https://blog.csdn.net/grey_csdn/article/details/104222122
 - emacs lisp: 通过load加载文件以及函数搜索目录
-N210， https://blog.csdn.net/grey_csdn/article/details/104222631
+N210, https://blog.csdn.net/grey_csdn/article/details/104222631
 - emacs lisp: spacemacs增加load加载目录封装
-N211， https://blog.csdn.net/grey_csdn/article/details/104223175
+N211, https://blog.csdn.net/grey_csdn/article/details/104223175
 - emacs lisp: when条件分支
-N212， https://blog.csdn.net/grey_csdn/article/details/104223675
+N212, https://blog.csdn.net/grey_csdn/article/details/104223675
 - emacs lisp: emacs lisp判断文件是否存在
-N213， https://blog.csdn.net/grey_csdn/article/details/104232723
+N213, https://blog.csdn.net/grey_csdn/article/details/104232723
 - emacs lisp: spacemacs的用户目录
-N214， https://blog.csdn.net/grey_csdn/article/details/104232950
+N214, https://blog.csdn.net/grey_csdn/article/details/104232950
 - emacs lisp: 展开文件名为绝对目录格式
-N215， https://blog.csdn.net/grey_csdn/article/details/104233439
+N215, https://blog.csdn.net/grey_csdn/article/details/104233439
 - emacs lisp: spacemacs的目录定义
-N216， https://blog.csdn.net/grey_csdn/article/details/104234583
+N216, https://blog.csdn.net/grey_csdn/article/details/104234583
 - emacs lisp: 创建目录
-N217， https://blog.csdn.net/grey_csdn/article/details/104234894
+N217, https://blog.csdn.net/grey_csdn/article/details/104234894
 - emacs lisp: unless条件分支
-N218， https://blog.csdn.net/grey_csdn/article/details/104236132
+N218, https://blog.csdn.net/grey_csdn/article/details/104236132
 - emacs lisp: 反引号的作用
-N221， https://blog.csdn.net/grey_csdn/article/details/104268436
+N221, https://blog.csdn.net/grey_csdn/article/details/104268436
 - emacs lisp: car与cdr函数
-N222， https://blog.csdn.net/grey_csdn/article/details/104268483
+N222, https://blog.csdn.net/grey_csdn/article/details/104268483
 - emacs lisp: 映射类函数
-N223， https://blog.csdn.net/grey_csdn/article/details/104268516
+N223, https://blog.csdn.net/grey_csdn/article/details/104268516
 - emacs lisp: 用户主题搜索目录
-N224， https://blog.csdn.net/grey_csdn/article/details/104268777
+N224, https://blog.csdn.net/grey_csdn/article/details/104268777
 - emacs lisp: provide 以及 require函数逇使用
-N225， https://blog.csdn.net/grey_csdn/article/details/104270387
+N225, https://blog.csdn.net/grey_csdn/article/details/104270387
 - emacs lisp: 控制 *Message* buffer的log条目
-N226， https://blog.csdn.net/grey_csdn/article/details/104270841
+N226, https://blog.csdn.net/grey_csdn/article/details/104270841
 - emacs lisp: 获取当前的时间
-N227， https://blog.csdn.net/grey_csdn/article/details/104286324
+N227, https://blog.csdn.net/grey_csdn/article/details/104286324
 - spacemacs题外话: 增加几款备选主题
-N229， https://blog.csdn.net/grey_csdn/article/details/104302524
+N229, https://blog.csdn.net/grey_csdn/article/details/104302524
 - emacs lisp: emacs扩展功能subr-x的引用
-N230， https://blog.csdn.net/grey_csdn/article/details/104303251
+N230, https://blog.csdn.net/grey_csdn/article/details/104303251
 - emacs lisp: cl-lib初探
-N231， https://blog.csdn.net/grey_csdn/article/details/104303572
+N231, https://blog.csdn.net/grey_csdn/article/details/104303572
 - emacs lisp: macroexp了解
-N234， https://blog.csdn.net/grey_csdn/article/details/104319419
+N234, https://blog.csdn.net/grey_csdn/article/details/104319419
 - emacs lisp: cons函数的使用
-N235， https://blog.csdn.net/grey_csdn/article/details/104319557
+N235, https://blog.csdn.net/grey_csdn/article/details/104319557
 - emacs lisp: 小数点在列表中的作用
-N236， https://blog.csdn.net/grey_csdn/article/details/104319595
+N236, https://blog.csdn.net/grey_csdn/article/details/104319595
 - emacs lisp: eq函数的使用
-N237， https://blog.csdn.net/grey_csdn/article/details/104319634
+N237, https://blog.csdn.net/grey_csdn/article/details/104319634
 - emacs lisp: 通过函数参数传递一个行为
-N238， https://blog.csdn.net/grey_csdn/article/details/104319681
+N238, https://blog.csdn.net/grey_csdn/article/details/104319681
 - emacs lisp: macroexp--cons函数的实现分析
-N239， https://blog.csdn.net/grey_csdn/article/details/104319766
+N239, https://blog.csdn.net/grey_csdn/article/details/104319766
 - emacs lisp: emacs的REPL交互模式
-N241， https://blog.csdn.net/grey_csdn/article/details/104330596
+N241, https://blog.csdn.net/grey_csdn/article/details/104330596
 - emacs lisp: 转义字符
-N242， https://blog.csdn.net/grey_csdn/article/details/104335123
+N242, https://blog.csdn.net/grey_csdn/article/details/104335123
 - emacs lisp: 斜线对于标识符的影响
-N243， https://blog.csdn.net/grey_csdn/article/details/104335959
+N243, https://blog.csdn.net/grey_csdn/article/details/104335959
 - emacs lisp: print函数
-N244， https://blog.csdn.net/grey_csdn/article/details/104336150
+N244, https://blog.csdn.net/grey_csdn/article/details/104336150
 - emacs lisp: progn 顺序结构
-N245， https://blog.csdn.net/grey_csdn/article/details/104336389
+N245, https://blog.csdn.net/grey_csdn/article/details/104336389
 - emacs lisp: 序列长度获取之length函数
-N246， https://blog.csdn.net/grey_csdn/article/details/104336658
+N246, https://blog.csdn.net/grey_csdn/article/details/104336658
 - emacs lisp: 函数设计小结
-N247， https://blog.csdn.net/grey_csdn/article/details/104336913
+N247, https://blog.csdn.net/grey_csdn/article/details/104336913
 - common lisp: REPL中几个常用的符号以及函数
-N257， https://blog.csdn.net/grey_csdn/article/details/104417719
+N257, https://blog.csdn.net/grey_csdn/article/details/104417719
 - common lisp: lisp_s evaluation model
-N258， https://blog.csdn.net/grey_csdn/article/details/104417782
+N258, https://blog.csdn.net/grey_csdn/article/details/104417782
 - common lisp: 既然有了if为什么还要使用when？
-N262， https://blog.csdn.net/grey_csdn/article/details/104434492
+N262, https://blog.csdn.net/grey_csdn/article/details/104434492
 - common lisp: flet 以及 labels
-N265， https://blog.csdn.net/grey_csdn/article/details/104442126
+N265, https://blog.csdn.net/grey_csdn/article/details/104442126
 - common lisp: 可选参数指定状态判断
-N270， https://blog.csdn.net/grey_csdn/article/details/104457392
+N270, https://blog.csdn.net/grey_csdn/article/details/104457392
 - common lisp: list的拆分
-N273， https://blog.csdn.net/grey_csdn/article/details/104487185
+N273, https://blog.csdn.net/grey_csdn/article/details/104487185
 - emacs only
-N274， https://blog.csdn.net/grey_csdn/article/details/104504609
+N274, https://blog.csdn.net/grey_csdn/article/details/104504609
 - common lisp: 数值计算与表达
-N278， https://blog.csdn.net/grey_csdn/article/details/104508205
+N278, https://blog.csdn.net/grey_csdn/article/details/104508205
 - common lisp: format的使用
-N279， https://blog.csdn.net/grey_csdn/article/details/104526271
+N279, https://blog.csdn.net/grey_csdn/article/details/104526271
 - emacs: spacemacs中的几个基于evil的常用工程管理快捷键
-N280， https://blog.csdn.net/grey_csdn/article/details/104544215
+N280, https://blog.csdn.net/grey_csdn/article/details/104544215
 - common lisp: 多返回值函数
-N281， https://blog.csdn.net/grey_csdn/article/details/104545665
+N281, https://blog.csdn.net/grey_csdn/article/details/104545665
+- common lisp: error注入与调试
+N282, https://blog.csdn.net/grey_csdn/article/details/104565016
