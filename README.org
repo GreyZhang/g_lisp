@@ -161,3 +161,7 @@ N280, https://blog.csdn.net/grey_csdn/article/details/104544215
 N281, https://blog.csdn.net/grey_csdn/article/details/104545665
 - common lisp: error注入与调试
 N282, https://blog.csdn.net/grey_csdn/article/details/104565016
+- common lisp: 字符串指示符
+N295, https://blog.csdn.net/grey_csdn/article/details/104601292
+- common lisp: 相同或者相等判断
+N296, https://blog.csdn.net/grey_csdn/article/details/104602120
