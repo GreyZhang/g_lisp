@@ -171,3 +171,5 @@ N297, https://blog.csdn.net/grey_csdn/article/details/104642451
 N300, https://blog.csdn.net/grey_csdn/article/details/104716028
 - common lisp: array初始值设置
 N301, https://blog.csdn.net/grey_csdn/article/details/104716379
+- common lisp: last函数的使用
+N302, https://blog.csdn.net/grey_csdn/article/details/104719562
