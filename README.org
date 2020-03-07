@@ -167,3 +167,5 @@ N295, https://blog.csdn.net/grey_csdn/article/details/104601292
 N296, https://blog.csdn.net/grey_csdn/article/details/104602120
 - common lisp: 几种全局变量的定义以及差异
 N297, https://blog.csdn.net/grey_csdn/article/details/104642451
+- common lisp: aref函数的使用初步
+N300, https://blog.csdn.net/grey_csdn/article/details/104716028
