@@ -169,3 +169,5 @@ N296, https://blog.csdn.net/grey_csdn/article/details/104602120
 N297, https://blog.csdn.net/grey_csdn/article/details/104642451
 - common lisp: aref函数的使用初步
 N300, https://blog.csdn.net/grey_csdn/article/details/104716028
+- common lisp: array初始值设置
+N301, https://blog.csdn.net/grey_csdn/article/details/104716379
