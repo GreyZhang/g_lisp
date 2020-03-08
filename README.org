@@ -175,3 +175,6 @@ N301, https://blog.csdn.net/grey_csdn/article/details/104716379
 N302, https://blog.csdn.net/grey_csdn/article/details/104719562
 - common lisp: generic function初步
 N305, https://blog.csdn.net/grey_csdn/article/details/104729836
+- common lisp: generic function方法实现的简化
+N306, https://blog.csdn.net/grey_csdn/article/details/104732274
+
