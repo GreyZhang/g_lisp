@@ -173,3 +173,5 @@ N300, https://blog.csdn.net/grey_csdn/article/details/104716028
 N301, https://blog.csdn.net/grey_csdn/article/details/104716379
 - common lisp: last函数的使用
 N302, https://blog.csdn.net/grey_csdn/article/details/104719562
+- common lisp: generic function初步
+N305, https://blog.csdn.net/grey_csdn/article/details/104729836
