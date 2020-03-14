@@ -185,3 +185,5 @@ N309, https://blog.csdn.net/grey_csdn/article/details/104807569
 N310, https://blog.csdn.net/grey_csdn/article/details/104808387
 - common lisp: case½á¹¹
 N311, https://blog.csdn.net/grey_csdn/article/details/104858502
+- common lisp: string vs array
+N312, https://blog.csdn.net/grey_csdn/article/details/104860567
