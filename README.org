@@ -189,3 +189,6 @@ N311, https://blog.csdn.net/grey_csdn/article/details/104858502
 N312, https://blog.csdn.net/grey_csdn/article/details/104860567
 - common lisp: 布尔量
 N313, https://blog.csdn.net/grey_csdn/article/details/104862004
+-common lisp: cond宏的使用
+N314, https://blog.csdn.net/grey_csdn/article/details/104862697
+
