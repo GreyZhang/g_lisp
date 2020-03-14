@@ -191,4 +191,6 @@ N312, https://blog.csdn.net/grey_csdn/article/details/104860567
 N313, https://blog.csdn.net/grey_csdn/article/details/104862004
 - common lisp: cond宏的使用
 N314, https://blog.csdn.net/grey_csdn/article/details/104862697
+- common lisp: some every notany notevery函数的使用
+N315, https://blog.csdn.net/grey_csdn/article/details/104864393
 
