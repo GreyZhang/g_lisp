@@ -194,4 +194,6 @@ N314, https://blog.csdn.net/grey_csdn/article/details/104862697
 - common lisp: some every notany notevery函数的使用
 N315, https://blog.csdn.net/grey_csdn/article/details/104864393
 - emacs lisp: 匿名函数
-N317， https://blog.csdn.net/grey_csdn/article/details/105016713
+N317，https://blog.csdn.net/grey_csdn/article/details/105016713
+- common lisp: array以及vector
+N318, https://blog.csdn.net/grey_csdn/article/details/105024587
