@@ -201,3 +201,5 @@ N318, https://blog.csdn.net/grey_csdn/article/details/105024587
 N319, https://blog.csdn.net/grey_csdn/article/details/105030233
 - common lisp: array长度以及维度信息获取
 N320, https://blog.csdn.net/grey_csdn/article/details/105030829
+- common lisp: complement的使用
+N321, https://blog.csdn.net/grey_csdn/article/details/105040476
