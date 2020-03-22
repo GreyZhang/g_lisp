@@ -197,3 +197,5 @@ N315, https://blog.csdn.net/grey_csdn/article/details/104864393
 N317，https://blog.csdn.net/grey_csdn/article/details/105016713
 - common lisp: array以及vector
 N318, https://blog.csdn.net/grey_csdn/article/details/105024587
+- common lisp: row-major-aref函数的使用
+N319, https://blog.csdn.net/grey_csdn/article/details/105030233
