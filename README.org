@@ -203,3 +203,5 @@ N319, https://blog.csdn.net/grey_csdn/article/details/105030233
 N320, https://blog.csdn.net/grey_csdn/article/details/105030829
 - common lisp: complement的使用
 N321, https://blog.csdn.net/grey_csdn/article/details/105040476
+- common lisp: 几个查询函数
+N322, https://blog.csdn.net/grey_csdn/article/details/105061362
