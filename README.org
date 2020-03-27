@@ -209,5 +209,5 @@ N322, https://blog.csdn.net/grey_csdn/article/details/105061362
 N323, https://blog.csdn.net/grey_csdn/article/details/105083300
 - common lisp: 可调整的array
 N324, https://blog.csdn.net/grey_csdn/article/details/105150883
--common lisp: 带有指针填充功能的array
+- common lisp: 带有指针填充功能的array
 N325, https://blog.csdn.net/grey_csdn/article/details/105152052
