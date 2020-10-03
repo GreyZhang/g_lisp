@@ -216,6 +216,8 @@ N326, https://blog.csdn.net/grey_csdn/article/details/105168470
 - emacs lisp: spacemacs 单引号转义字符问题解决
 N409, [[https://greyzhang.blog.csdn.net/article/details/108798549][409_spacemacs c-mode中去掉单引号输入自带的斜线]]
 - emacs lisp: 修改spacemacs的行间距效果
-N411， [[https://greyzhang.blog.csdn.net/article/details/108889915][411_spacemacs改变行间距效果]]
+N411 [[https://greyzhang.blog.csdn.net/article/details/108889915][411_spacemacs改变行间距效果]]
 - emacs多配置文件的支持
-N412， [[https://greyzhang.blog.csdn.net/article/details/108900145][412_在windows系统上指定emacs的启动文件支持多配置]]
+N412 [[https://greyzhang.blog.csdn.net/article/details/108900145][412_在windows系统上指定emacs的启动文件支持多配置]]
+- emacs中查看并临时修改环境变量
+N413，[[https://greyzhang.blog.csdn.net/article/details/108907995][413_在emacs中查看并临时修改windows环境变量]]
