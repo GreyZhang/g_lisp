@@ -220,4 +220,4 @@ N411 [[https://greyzhang.blog.csdn.net/article/details/108889915][411_spacemacs¸
 - emacs¶àÅäÖÃÎÄ¼şµÄÖ§³Ö
 N412 [[https://greyzhang.blog.csdn.net/article/details/108900145][412_ÔÚwindowsÏµÍ³ÉÏÖ¸¶¨emacsµÄÆô¶¯ÎÄ¼şÖ§³Ö¶àÅäÖÃ]]
 - emacsÖĞ²é¿´²¢ÁÙÊ±ĞŞ¸Ä»·¾³±äÁ¿
-N413£¬[[https://greyzhang.blog.csdn.net/article/details/108907995][413_ÔÚemacsÖĞ²é¿´²¢ÁÙÊ±ĞŞ¸Äwindows»·¾³±äÁ¿]]
+N413 [[https://greyzhang.blog.csdn.net/article/details/108907995][413_ÔÚemacsÖĞ²é¿´²¢ÁÙÊ±ĞŞ¸Äwindows»·¾³±äÁ¿]]
