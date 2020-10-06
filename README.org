@@ -225,3 +225,6 @@ N413 [[https://greyzhang.blog.csdn.net/article/details/108907995][413_ÔÚemacsÖĞ²
 N414 [[https://greyzhang.blog.csdn.net/article/details/108917357][414_emacs dired-mode¶àÎÄ¼ş±ê¼Ç]]
 - °Ñ¶à¸öÎÄ¼ş±àÒë³É×Ö½ÚÂë
 N415 [[https://greyzhang.blog.csdn.net/article/details/108925348][415_°Ñemacs lisp±àÒë³É×Ö½ÚÂë]]
+- dired-modeÖĞ´ÓÒ»¸öÄ¿Â¼¿ìËÙ¿½±´µ½ÁíÒ»¸öÄ¿Â¼
+N416 [[https://greyzhang.blog.csdn.net/article/details/108936992][416_emacs dired-modeÊµÏÖ´ÓÒ»¸öÄ¿Â¼µ½ÁíÒ»¸öÄ¿Â¼µÄ¿ì½İ¿½±´]]
+
