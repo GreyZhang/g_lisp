@@ -227,4 +227,6 @@ N414 [[https://greyzhang.blog.csdn.net/article/details/108917357][414_emacs dire
 N415 [[https://greyzhang.blog.csdn.net/article/details/108925348][415_把emacs lisp编译成字节码]]
 - dired-mode中从一个目录快速拷贝到另一个目录
 N416 [[https://greyzhang.blog.csdn.net/article/details/108936992][416_emacs dired-mode实现从一个目录到另一个目录的快捷拷贝]]
+- 让emacs默认支持Arduino工程文件解析为C++
+N417 [[https://blog.csdn.net/grey_csdn/article/details/108948376][417_让emacs默认支持Arduino工程文件解析为C++代码]]
 
