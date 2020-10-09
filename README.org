@@ -231,3 +231,6 @@ N416 [[https://greyzhang.blog.csdn.net/article/details/108936992][416_emacs dire
 N417 [[https://blog.csdn.net/grey_csdn/article/details/108948376][417_让emacs默认支持Arduino工程文件解析为C++代码]]
 - emacs lisp中的“布尔量”判断
 N418 [[https://greyzhang.blog.csdn.net/article/details/108959806][418_emacs lisp“布尔量”判断]]
+- emacs lisp vector小结
+N419 [[https://greyzhang.blog.csdn.net/article/details/108986401][419_emacs lisp vector小结]]
+
