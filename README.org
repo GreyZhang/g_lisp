@@ -233,4 +233,6 @@ N417 [[https://blog.csdn.net/grey_csdn/article/details/108948376][417_»√emacsƒ¨»
 N418 [[https://greyzhang.blog.csdn.net/article/details/108959806][418_emacs lisp°∞≤º∂˚¡ø°±≈–∂œ]]
 - emacs lisp vector–°Ω·
 N419 [[https://greyzhang.blog.csdn.net/article/details/108986401][419_emacs lisp vector–°Ω·]]
+- emacs lisp–°Ω·
+N420 [[https://greyzhang.blog.csdn.net/article/details/109003947][420_emas lisp lisp–°Ω·]]
 
