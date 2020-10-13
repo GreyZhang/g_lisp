@@ -237,4 +237,5 @@ N419 [[https://greyzhang.blog.csdn.net/article/details/108986401][419_emacs lisp
 N420 [[https://greyzhang.blog.csdn.net/article/details/109003947][420_emas lisp lisp小结]]
 - xah-find使用
 N421 [[https://greyzhang.blog.csdn.net/article/details/109007748][421_emacs lisp xah-find插件使用初步]]
-
+- vector and map
+N424 [[https://greyzhang.blog.csdn.net/article/details/109064806][424_emacs lisp中list以及vector的map操作]]
